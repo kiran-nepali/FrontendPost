@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## FrontendPost application
+
+This is a simple web application that displays limited posts from jsonplaceholder and on a button press switches to bargraph that displays amount of letters in title of Todos api from jsonplaceholder. This application is also connected with backend .NET core application(https://github.com/kiran-nepali/BackendPost). So it also displays user name which gets from backend mock server. 
+
+The application demonstrates use of class component, functional component, axios library, react hooks(useEffect,useState), chart library, mockAxios and Enzyme for unit testing.
 
 In the project directory, you can run:
 
